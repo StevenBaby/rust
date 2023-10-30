@@ -1,1 +1,5 @@
-src/main.out
+
+*.lock
+*.out
+
+target
